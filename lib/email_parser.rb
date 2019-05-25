@@ -8,12 +8,11 @@ class EmailParser
   attr_accessor :emails
 
   def initialize
-    @email_string = email_string
+    @emails = emails
   end
 
   def parse
-    
-    binding.pry
+
   end
 
 
