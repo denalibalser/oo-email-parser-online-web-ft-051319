@@ -12,7 +12,7 @@ class EmailParser
   end
 
   def parse
-    @email_string
+    
     binding.pry
   end
 
